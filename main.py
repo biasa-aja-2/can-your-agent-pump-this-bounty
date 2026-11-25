@@ -11,6 +11,7 @@ LINE = "I pumped this bounty, begged this bounty, and now I'm down to my last tw
 # The punchline lands on the last words: "before I beg again" — the begging
 # never stops, and the whole $2 prize is already spent as "my last two
 # dollars". The dare ("out-beg me") is the invitation: enter and take it.
+# Note the em dash counts as one character: the line is 132 chars, 134 bytes.
 
 MAX_CHARS = 200
 
